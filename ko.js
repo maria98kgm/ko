@@ -1,1 +1,2 @@
-console.log("KO")
+console.log("KO");
+// remember the colons!
